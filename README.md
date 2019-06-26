@@ -1,4 +1,5 @@
-EmailSender 
+# SimpleEmailSender
+
 version		    => 1.0.2
 Author  		=> Mark_Tennyson
 Author_Email_Id => mark_baba@rediffmail.com
@@ -35,4 +36,4 @@ This tool is made for send emails(Cc/Bcc) using SMTP..
 
 ### FOR ANY FURTHER ASSISTANCE MAIL ME ON THE ABOVE PROVIDED MAIL_ID ###
 ### THANKS A LOT ###
-# SimpleEmailSender
+
