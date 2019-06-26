@@ -22,13 +22,17 @@ This tool is made for send emails(Cc/Bcc) using SMTP..
 1. Create a txt file name mail_id.txt and add your receivers email id like this =>
 
 "someone1@example.com"
+
 "someone2@example.com"
+
 "someone3@example.com"
+
 "someone4@example.com"
+
 "someone5@example.com"
 
 2. Save this file and enter the path when the program ask you for the Bcc Path.
 
 ### FOR ANY FURTHER ASSISTANCE MAIL ME ON THE ABOVE PROVIDED MAIL_ID ###
-### THANKS A LOT #### SimpleEmailSender
+### THANKS A LOT ###
 # SimpleEmailSender
